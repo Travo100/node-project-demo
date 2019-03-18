@@ -1,0 +1,26 @@
+{
+  "name": "project-demo",
+  "version": "1.0.0",
+  "description": "A demo for setting up a node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Travo100/node-project-demo.git"
+  },
+  "keywords": [
+    "starter",
+    "code"
+  ],
+  "author": "Travis Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Travo100/node-project-demo/issues"
+  },
+  "homepage": "https://github.com/Travo100/node-project-demo#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
