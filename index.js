@@ -1,7 +1,5 @@
 require('dotenv').config();
 
-console.log(process.env.SUPER_SECRET);
-
 var Spotify = require('node-spotify-api');
  
 var spotify = new Spotify({
